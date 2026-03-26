@@ -1,6 +1,12 @@
 # MCH-2_Shielding_Project
 Wide-Band EM Absorbing Composite based on Bismuth expansion.
+# MCH-2: Ultra-Wideband Electromagnetic Shielding Protocol
 
+> **[CORE NOTICE]**
+> - **Development Period:** 7 Days (Rapid Prototyping)
+> - **Tools Used:** Gemini 1.5 Flash (Free-Tier AI)
+> - **Status:** Patent-Free / Public Domain (Unrestricted Use)
+> - **Logic:** Bio-mimetic pressure sealing & thermodynamic gradient optimization.
 技術仕様書：広帯域電磁波吸収・環境遮蔽複合媒体 (MCH-2)
 Technical Specifications: Wide-Band EM Absorbing & Shielding Composite (MCH-2)
 1. 権利の完全放棄 / Universal Waiver of Rights
