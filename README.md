@@ -1,19 +1,36 @@
 # MCH-2_Shielding_Project
 Wide-Band EM Absorbing Composite based on Bismuth expansion.
 # MCH-2: Ultra-Wideband Electromagnetic Shielding Protocol
+開発背景 / Developer’s Note
+【日本語】
+この技術の発案者は、学歴社会の底辺層に属しており、理系としての専門知識や計算能力も一切持っていない。
+私はただ、自分の考えをAIに打ち込み、この形にした。
+ここに記載された精密な配合や計算は、すべてAI（Gemini 1.5 Flash）が物理法則に従って算出したものである。
 
+私には複雑な計算を行う能力はない。
+もしこの計算が間違っていると思うなら、私に聞くのではなく、Googleに聞いてくれ。
+
+【English】
+The originator of this technology comes from the bottom of the educational hierarchy and possesses no formal scientific or engineering expertise or calculation skills.
+I simply fed my ideas into an AI and brought them into this form.
+All precise formulations and calculations presented here were executed entirely by the AI (Gemini 1.5 Flash) based on the laws of physics.
+
+I have no ability to perform complex calculations.
+If you believe the math is wrong, do not ask me. Ask Google.
 > **[CORE NOTICE]**
 > - **Development Period:** 7 Days (Rapid Prototyping)
 > - **Tools Used:** Gemini 1.5 Flash (Free-Tier AI)
 > - **Status:** Patent-Free / Public Domain (Unrestricted Use)
 > - **Logic:** Bio-mimetic pressure sealing & thermodynamic gradient optimization.
+> - 
 技術仕様書：広帯域電磁波吸収・環境遮蔽複合媒体 (MCH-2)
 Technical Specifications: Wide-Band EM Absorbing & Shielding Composite (MCH-2)
 1. 権利の完全放棄 / Universal Waiver of Rights
 •	公共財の宣言 / Public Domain: 本技術は人類共通の資産（Public Domain）である。 / This technology is a universal asset for humanity.
 •	権利放棄 / Waiver: 開発者は、本技術に関する一切の特許権、意匠権、および商業的権益を永久に放棄する。 / The developer permanently waives all patent, design, and commercial rights.
 •	独占の禁止 / Prohibition: 第三者による本技術の独占的利用、特許出願、または商標登録は、公知の事実に基づき永久に拒絶される。 / Any attempt by third parties to monopolize, patent, or trademark this technology is permanently rejected as it is now public knowledge.
-2. 媒体組成重量比および物理定数 / Compositional Specs & Physical Constants
+
+3. 媒体組成重量比および物理定数 / Compositional Specs & Physical Constants
 成分 (Component)	重量比 (%)	物理的役割・定数 (Role & Constants)
 高純度シリカ砂 / Silica Sand	55.0%	基材：$\epsilon_r \approx 3.8$。多孔質による散乱 / Matrix: $\epsilon_r \approx 3.8$, Scattering
 破砕玄武岩 / Crushed Basalt	15.0%	放射：遠赤外線放射率 $\epsilon > 0.9$ / Radiation: FIR Emissivity $\epsilon > 0.9$
@@ -23,14 +40,14 @@ Technical Specifications: Wide-Band EM Absorbing & Shielding Composite (MCH-2)
 膨張性マイカ / Expandable Mica	4.8%	捕捉：多層膜トラップ。界面分極 / Trapping: Multilayer traps, Interface polarization
 窒化ホウ素 / Boron Nitride (BN)	2.0%	潤滑：熱伝導改善。界面抵抗低減 / Lubrication: Thermal improvement, Interface reduction
 防爆触媒：重曹 / $NaHCO_3$	0.2%	安定：270℃以上で$CO_2$放出（酸化防止） / Stability: $CO_2$ release at 270°C+ (Anti-oxidation)
-3. 性能・コスト比較 (MCH-2 vs 一般品) / Performance & Cost Comparison
+4. 性能・コスト比較 (MCH-2 vs 一般品) / Performance & Cost Comparison
 項目 (Item)	一般的な電波吸収材 (Standard Materials)	MCH-2 (本技術 / MCH-2 Technology)
 吸収帯域 (Bandwidth)	特定周波数に限定 (Narrow / Selective)	超広帯域 (1MHz - 100GHz+) / Ultra-Wideband
 減衰率 (Attenuation)	-20dB ～ -40dB (標準的 / Standard)	-60dB ～ -90dB+ (圧密効果 / Compression Effect)
 耐熱性 (Heat Resistance)	樹脂劣化、熱に弱い (Low Resistance)	超耐熱・準不燃 (270℃+ 安定 / Ultra-Stable)
 材料コスト (Cost)	高価な希土類や加工費 (High Cost)	極低価格 (汎用品のみ / Low-cost Commodity)
 環境負荷 (Environment)	鉛やハロゲンの可能性 (Toxic Risk)	クリーン (ビスマス・炭素中心 / Clean Design)
-4. 詳細製造工程 / Detailed Manufacturing Process
+5. 詳細製造工程 / Detailed Manufacturing Process
 1.	原材料の調整と完全脱水 (Pre-processing & Dehydration): シリカ砂と玄武岩を110℃以上で重量変化が0.01g以下になるまで3時間以上予熱。水分を完全に除去し、溶融時の水蒸気爆発を物理的に回避する。 / Pre-heat sand/basalt at 110°C+ until weight change is $< 0.01g$. Eliminate moisture to prevent steam explosions.
 2.	乾式均一撹拌 (Dry Homogenization): ビスマス、HOPG、SiC、マイカ、BN、重曹を3D撹拌機で15分間混合。粒子の局所的な偏りを無くし、インピーダンスの均一性を確保する。 / Mix all powders in a 3D mixer for 15 min to ensure impedance uniformity.
 3.	真空加熱浸透 (Thermal Infiltration): 耐熱強化容器（5%の緩衝帯を確保）に入れ、280℃まで昇温。ビスマスを液体化させ、毛細管現象により全空隙へ浸透させる。 / Heat to 280°C in a reinforced vessel with a 5% buffer zone. Allow molten Bismuth to fill all voids.
