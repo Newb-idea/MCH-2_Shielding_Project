@@ -1,3 +1,5 @@
+[![CI](https://github.com/Newb-idea/MCH-2_Shielding_Project/actions/workflows/blank.yml/badge.svg)](https://github.com/Newb-idea/MCH-2_Shielding_Project/actions/workflows/blank.yml)　　　　　　　　　　　　　　　　　　　　　
+
 # MCH-2_Shielding_Project
 Wide-Band EM Absorbing Composite based on Bismuth expansion.
 # MCH-2: Ultra-Wideband Electromagnetic Shielding Protocol
