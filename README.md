@@ -330,6 +330,8 @@ C. Extreme Shielding (宇宙・放射線遮蔽):
 
 [JP] 共通呼称としての「V-CORE」: 名称「V-CORE」は本技術体系の一般呼称です。商標独占を望まず、誰もが「V-CORE準拠」として自由に使用・呼称することを推奨します。
 
+[JP] 派生知見の事前デバッグ: 本資料に記載された概念から容易に類推可能なあらゆる改良・応用案も、本公開をもって公知の範囲に含まれるものとみなされます。
+
 [JP] 免責事項: 本内容は理論的考察に基づく知見の共有であり、実装および運用に関する一切の責任は利用者が負うものとします。
 
 Release to the Public: Upon publication, all concepts of composition, geometry, and manufacturing processes are established as "Public Information," preventing the emergence of exclusive rights based on these core ideas.
@@ -338,9 +340,12 @@ Inclusivity of Scope: Encompasses variations within ±10% of ratios and applicat
 
 "V-CORE" as a Universal Term: We reject exclusive trademark claims; free use of the term as an open standard (e.g., "V-CORE compliant") is encouraged.
 
+Preemptive Debugging of Derivative Insights: Any improvements or applications easily inferable from the concepts in this document are also deemed part of the public domain upon this publication.
+
 Disclaimer: This is a sharing of insights based on theoretical considerations. All responsibility for implementation and operation is assumed by the user.
 
 🚀 [JP] 結び / [EN] Conclusion
 真の発展とは、誰もがその恩恵に預かれる自由の中にあります。砂一粒から始まる、所有から解放された未来を願って。
 
 True progress lies in the freedom for all to benefit. May this grain of sand lead to a future liberated from the constraints of ownership.
+
