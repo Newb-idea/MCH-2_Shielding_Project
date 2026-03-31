@@ -384,3 +384,8 @@ The purpose of this document is to fix advanced technical insights as a "Public 
 
 [EN] Open-Sourcing of Derivative Data: Concepts regarding the quantification of asset value utilizing data on thermal behavior, carbon credits, and environmental impact derived from the operation of this media are recommended as open knowledge that should be based on public protocols.
 
+[JP] 広域的応用および設計思想の不変性:
+本技術は、光学的制御（メタマテリアル特性等）や生物学的要素との複合、ならびに環境負荷低減のためのあらゆる既存技術との結合を包括的に内包します。また、本媒体の設計思想は「半永久的な循環と永続」にあり、意図的な劣化制御による独占的モデルを排した、公共インフラとしての運用を強く推奨します。
+
+[EN] Broader Applications and Permanence of Design Philosophy:
+This technology comprehensively encompasses optical control (e.g., metamaterial properties), integration with biological elements, and coupling with all existing technologies for environmental impact reduction. Furthermore, the core design philosophy is centered on "semi-permanent circulation and permanence," strongly recommending its operation as a public infrastructure that rejects exclusive models based on intentional degradation control (planned obsolescence).
