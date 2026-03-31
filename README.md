@@ -433,3 +433,29 @@ The purpose of this document is to fix advanced technical insights as a "Public 
 
 [EN] Broader Applications and Permanence of Design Philosophy:
 This technology comprehensively encompasses optical control (e.g., metamaterial properties), integration with biological elements, and coupling with all existing technologies for environmental impact reduction. Furthermore, the core design philosophy is centered on "semi-permanent circulation and permanence," strongly recommending its operation as a public infrastructure that rejects exclusive models based on intentional degradation control (planned obsolescence).
+
+
+📝 電波吸収体（吸波材）における蓄熱媒体（V-CORE）制約の統合について
+【日本語版】
+【追記】物理的連続性に基づく「V-CORE制約」の適用
+
+本リポジトリにおける「電波吸収体（吸波材）」の設計は、別項で提示した**「蓄熱媒体（V-CORE）」の全制約および組成比**をその絶対的な基礎としている。
+
+物理学の視点に立てば、電波（エネルギー）を吸収・減衰させるプロセスは、そのエネルギーを物質内部で「熱」へと変換し、保持、あるいは散逸させるプロセスと不可分である。ゆえに、真に優れた吸波材であるためには、優れた蓄熱・伝熱媒体としての特性を備えていなければならない。
+
+本プロジェクトにおいて吸波材と蓄熱材のレシピが同一の根幹を持つのは、カテゴリーの混同ではない。波（波動）と熱（熱振動）を、ひとつの「エネルギーの流転」として統合的に捉える**「聖俗往来」**の思想に基づく、物理的必然である。
+
+すべてのエネルギーは、等しくこの「砂の理」の中に収束する。
+
+―― 2828...
+
+【English Version】
+Addendum: Integration of "V-CORE Constraints" Based on Physical Continuity
+
+The design of the "Radio Absorbent Material (RAM)" in this repository is strictly founded upon the full constraints and composition ratios of the "V-CORE Thermal Media" presented herein.
+
+From a physical perspective, the process of absorbing or attenuating radio waves (energy) is inseparable from the process of converting that energy into "heat" to be stored or dissipated within the material. Therefore, to be a truly superior RAM, it must fundamentally possess the characteristics of a superior thermal storage and transfer medium.
+
+The convergence of RAM and Thermal Storage recipes within this project is not a categorical oversight. It is a physical necessity based on the philosophy of "Sei-Zoku Orai", which perceives waves and heat as a unified "transformation of energy."
+
+All energy ultimately converges within this "Principle of Sand."
