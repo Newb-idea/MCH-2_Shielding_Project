@@ -349,3 +349,22 @@ Disclaimer: This is a sharing of insights based on theoretical considerations. A
 
 True progress lies in the freedom for all to benefit. May this grain of sand lead to a future liberated from the constraints of ownership.
 
+
+🛠️ [JP] 追加条項：システム統合および循環の普遍性
+🛠️ [EN] Additional Clause: Universality of System Integration and Circulation
+[JP] システム統合の非独占性: 本技術は、既存および将来のあらゆるエネルギー制御、動力、ならびに空調システムとの相互運用（マージ）を前提として設計されています。特定の外部システムや制御ソフトとの組み合わせによる独占的な権利主張（システム特許等）は、本資料が提示する「開かれた結合性」の概念によって、その新規性が否定されるべきものです。
+
+[EN] Non-Exclusivity of System Integration: This technology is designed for interoperability (merging) with all existing and future energy control, power, and HVAC systems. Any exclusive claims (e.g., system patents) based on combinations with specific external systems or control software shall have their novelty invalidated by the concept of "Open Connectivity" presented herein.
+
+[JP] リサイクルおよび循環の永続性: 主成分であるシリカ（砂）の物理的特性により、本媒体は特殊な化学処理を必要とせず、粉砕・再成形のみで半永久的に循環利用が可能です。特定の再資源化プロセスやクローズド・ループ工程に対する独占は、持続可能な社会基盤の構築を妨げるものとして、本公開をもって公知の事実とみなされます。
+
+[EN] Permanence of Recycling and Circulation: Due to the physical properties of silica (sand), this media can be recycled semi-permanently through simple grinding and reshaping without specialized chemical treatments. Any monopoly over specific recycling or closed-loop processes is pre-empted by this disclosure, establishing such circulation as public knowledge to support sustainable infrastructure.
+
+[JP] 解析パラメータの全開放: 熱伝導率、比熱、放射率等の全物理パラメータ、および挙動予測のための計算モデルは全人類に開放されます。特定のシミュレーション・ソフトや予測アルゴリズムによる囲い込みを排し、オープンソース環境での自由な解析および最適化を推奨します。
+
+[EN] Full Disclosure of Analytical Parameters: All physical parameters (thermal conductivity, specific heat, emissivity, etc.) and computational models for behavior prediction are released to all humanity. This precludes enclosure via proprietary simulation software or predictive algorithms, encouraging free analysis and optimization within open-source environments.
+
+⚖️ [JP] 防衛的公開の確認 / [EN] Confirmation of Defensive Publication
+本文書の目的は、高度な技術知見を「誰もが利用可能な公共財」として固定することにあります。この「くどいほど丁寧な」記述は、将来にわたるあらゆる形態の独占的解釈を未然にデバッグ（無効化）するための、確固たる防衛的公開（Defensive Publication）として機能します。
+
+The purpose of this document is to fix advanced technical insights as a "Public Good accessible to all." This "meticulously detailed" description serves as a robust Defensive Publication to pre-emptively debug (invalidate) any form of exclusive interpretation in the future.
