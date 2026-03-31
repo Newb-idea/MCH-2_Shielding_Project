@@ -233,6 +233,61 @@ Concepts of thermal stability and physical protection are optimized based on exp
   * **Legal Disclaimer:** 本ドキュメントの利用に伴ういかなる結果についても、提供者は法的責任を負わない。実利を目的としたオープンソースの概念提示である。
       * The provider assumes no legal liability for results arising from the use of this document. This is an open-source conceptual presentation for practical utility.
 
------
+--📄 V-CORE Supplemental Technical Memorandum / V-CORE 追加技術覚書
+License: Creative Commons Zero (CC0) 1.0 Universal
+Scope: Advanced Physical Modification of Silica Substrates for Extreme Environments
+
+
+
+🌐 [JP] はじめに / [EN] Introduction
+本資料は、先行して公開された「V-CORE 蓄熱媒体配合」の性能を、物理的形状のカスタマイズによって特定用途へ最適化する思考実験プロトタイプを提示するものです。本知見は全人類の共有財産として、広く社会の発展に寄与することを目的として提供されます。
+
+This memorandum presents a thought-experiment prototype for optimizing the "V-CORE Heat Storage Media" for specific applications through physical shape customization. This knowledge is provided as a common heritage for all humanity, intended to contribute to the broad advancement of society.
+
+1. ⚙️ [JP] シリカ粒子の物理的カスタマイズ / [EN] Physical Customization of Silica Particles
+A. For Thermal Storage (蓄熱・伝導特化)
+[JP] 形状: 多孔質マイクロカプセル構造。表面にナノポアを形成。
+
+利点: 熱膨張による内部応力を分散し、長期的なサイクル耐久性を確保。空孔に炭素材料をマージすることで、熱伝導効率を飛躍的に向上させます。
+
+[EN] Geometry: Porous Micro-capsule Structure with nano-pores.
+
+Benefit: Disperses internal stress from thermal expansion, ensuring long-term cyclic durability. By merging carbon materials into the pores, thermal conductivity efficiency is dramatically improved.
+
+B. For Electromagnetic Absorption (吸波・ステルス特化)
+[JP] 形状: 中空ジオデシック・スフィア（多面体中空構造）。
+
+利点: トラス構造により機械的強度を維持しつつ、内部の多重反射を利用して特定周波数の電波を減衰・熱変換します。
+
+[EN] Geometry: Hollow Geodesic Spheres (Polyhedral Hollow Structure).
+
+Benefit: Maintains mechanical strength via truss structures while utilizing internal multiple reflections to attenuate and convert specific electromagnetic waves into heat.
+
+C. For Aerospace & Radiation Shielding (宇宙・放射線遮蔽特化)
+[JP] 形状: 高密度ラメラ（積層）プレート構造。
+
+利点: シリカを微細な鱗状に成形し、中性子遮蔽能を持つ素材（BN等）と交互に積層。極限環境における衝撃を層間で分散し、材料の劣化を最小限に抑えます。
+
+[EN] Geometry: High-density Lamellar (Layered) Plate Structure.
+
+Benefit: Silica is formed into micro-scales and layered alternately with neutron-shielding materials (e.g., BN). This disperses impacts between layers in extreme environments, minimizing material degradation.
+
+⚖️ [JP] 法的事項および権利の放棄 / [EN] Legal Notice & Waiver of Rights
+[JP] 公衆への開放: 本文書の公開により、記述された技術的概念および数値的知見は「公知の情報」として提供されます。
+
+[JP] 非独占の推奨: 本技術はリチウムイオン電池等、高コストな資源に依存しない持続可能な社会基盤を構築するために、一切の権利主張を放棄して解放されます。
+
+[JP] 免責事項: 本内容は理論的考察であり、実装および運用に関する一切の責任は利用者が負うものとします。
+
+Release to the Public: Upon publication, the technical concepts and numerical findings described herein are provided as "Public Information."
+
+Promotion of Non-Exclusivity: This technology is released with a full waiver of rights to build a sustainable social infrastructure independent of high-cost resources like Lithium-ion batteries.
+
+Disclaimer: This content is a theoretical consideration. All responsibility for implementation and operation is assumed by the user.
+
+🚀 [JP] 結び / [EN] Conclusion
+既存の「枠」に縛られない知恵の集積が、新たな世界のOSとなることを願います。
+
+We hope that the accumulation of wisdom, free from existing "Frameworks," will become the OS for a new world.---
 
 
