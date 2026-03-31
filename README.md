@@ -368,3 +368,19 @@ True progress lies in the freedom for all to benefit. May this grain of sand lea
 本文書の目的は、高度な技術知見を「誰もが利用可能な公共財」として固定することにあります。この「くどいほど丁寧な」記述は、将来にわたるあらゆる形態の独占的解釈を未然にデバッグ（無効化）するための、確固たる防衛的公開（Defensive Publication）として機能します。
 
 The purpose of this document is to fix advanced technical insights as a "Public Good accessible to all." This "meticulously detailed" description serves as a robust Defensive Publication to pre-emptively debug (invalidate) any form of exclusive interpretation in the future.
+
+
+🧪 [JP] 派生技術および界面制御の包括性
+🧪 [EN] Inclusivity of Derivative Technologies and Interface Control
+[JP] 微量添加物による特性調整の自明性: シリカ媒体への微量な添加物（ナノ材料、不純物、炭素材料、貴金属、あるいは未定義の不純物等）の導入による物理的・化学的特性の調整は、本知見に基づく自明な派生範囲（Prior Art）とみなされます。これらの組み合わせによる個別的な権利主張は、本資料が提示する汎用的な最適化指針によって、その進歩性が否定されるべきものです。
+
+[EN] Obviousness of Property Adjustments via Trace Additives: Adjustments of physical or chemical properties through the introduction of trace additives (nanomaterials, impurities, carbon materials, precious metals, or undefined impurities, etc.) to the silica media are deemed obvious derivative scopes (Prior Art) based on this knowledge. Individual claims of rights based on these combinations shall have their inventive step invalidated by the universal optimization guidelines presented herein.
+
+[JP] 界面処理およびコーティング技術の公知化: 媒体表面への既存のあらゆるコーティング技術（撥水、耐熱、耐食、防汚、あるいはナノレベルの表面改質等）の適用は、本技術体系の運用における標準的な選択肢として包含されます。これらの界面制御手法との組み合わせは、本公開をもって公知の事実とみなされます。
+
+[EN] Establishment of Interface Treatment and Coating Technologies as Public Knowledge: The application of any existing coating technologies (water-repellent, heat-resistant, anti-corrosive, anti-fouling, or nano-level surface modifications, etc.) to the media surface is included as a standard option in the operation of this technical system. Combinations with these interface control methods are established as public knowledge upon this publication.
+
+[JP] 派生データのオープン化: 本媒体の運用によって得られる熱挙動、炭素クレジット、および環境負荷に関する各種データや、それらを活用した資産価値の定量化に関する概念も、公共のプロトコルに基づくべきオープンな知見として推奨されます。
+
+[EN] Open-Sourcing of Derivative Data: Concepts regarding the quantification of asset value utilizing data on thermal behavior, carbon credits, and environmental impact derived from the operation of this media are recommended as open knowledge that should be based on public protocols.
+
