@@ -647,3 +647,20 @@ The introduction of this backing material (backsheet) demonstrates a balance bet
 【注記 / Note】
 本考察は、AIとの対話を通じて構築された理論的モデルに基づく経済・環境予測であり、実機を用いたライフサイクルアセスメント（LCA）の実測値に基づくものではない。
 This assessment is an economic and environmental forecast based on a theoretical model constructed through AI dialogue and is not based on measured values from a Life Cycle Assessment (LCA) using actual equipment.
+
+
+README 追加文
+【日本語】
+
+注記：高度なエネルギー制御と物理特性の拡張性について
+本設計における媒体の「幾何学的配向」と「多層界面制御」プロセスにおいて、特定のレアメタル（ガリウム、インジウム等）を極少量（0.1wt%未満）添加することで、電子の共鳴効率および熱電変換効率が物理限界まで跳ね上がる可能性が計算上予見されている。
+
+重要なのは、本システムにおいてレアメタルは「主成分」ではなく、砂と石の物理OSを最適化するための「触媒（スパイス）」に過ぎない点である。これにより、特定の資源独占に依存することなく、地産地消の素材と微量の添加剤のみで、既存の産業用・宇宙用グレードを遥かに凌駕する「S級」の性能をオンデマンドで実装することが可能となる。
+
+【English】
+
+Note: Advanced Energy Control and Scalability of Physical Properties
+In the "Geometric Orientation" and "Multilayer Interface Control" processes of this design, computational models suggest that adding trace amounts of specific rare metals (e.g., Gallium, Indium) at less than 0.1wt% could potentially catapult electron resonance and thermoelectric efficiency to their theoretical physical limits.
+
+It is crucial to note that in this system, rare metals act not as "primary components" but merely as "catalysts (spices)" to optimize the physical OS defined by silica and basalt. This enables the on-demand implementation of "S-Class" performance—surpassing existing industrial and aerospace grades—using only locally sourced materials and minute additives, without dependency on any specific resource monopolies.
+
