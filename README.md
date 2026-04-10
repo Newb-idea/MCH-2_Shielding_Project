@@ -664,3 +664,71 @@ In the "Geometric Orientation" and "Multilayer Interface Control" processes of t
 
 It is crucial to note that in this system, rare metals act not as "primary components" but merely as "catalysts (spices)" to optimize the physical OS defined by silica and basalt. This enables the on-demand implementation of "S-Class" performance—surpassing existing industrial and aerospace grades—using only locally sourced materials and minute additives, without dependency on any specific resource monopolies.
 
+
+不滅の石板 v3:追加技術仕様書 (Eternal Tablet v3:
+Supplemental Technical Specifications)
+1. 設計思想:ソリッド・ステートへの昇華 / Design Philosophy:
+Sublimation to Solid-State
+[JP] 本追加仕様では、液体の「水」を一切排除し、シリカ(高純度砂)による「完全ドライ・ソリッド」構
+造を採用する。これにより、酸化、漏洩、熱膨張による破裂のリスクを根源的に解消し、1000年規模
+のメンテナンスフリー性能(不滅)を確立する。
+[EN] This supplemental specification eliminates all liquid water, adopting a "Complete Dry Solid"
+structure based on high-purity silica. This fundamentally resolves risks of oxidation, leakage,
+and thermal expansion rupture, establishing 1000-year scale maintenance-free performance
+(Immortality).
+
+2. 核心技術:シリカ・カプセル化(ガラス封止) / Core Tech: Silica
+Encapsulation (Glass Sealing)
+A. 内部真空ポケットの形成 / Formation of Internal Vacuum Pockets
+[JP] 焼成プロセスにおける精密な温度制御により、内部の空気を排出させた状態で表面をセラミック
+化(ガラス質への相転移)させる。冷却時に生じる負圧を利用し、内部に「マイクロ真空」を形成。これ
+が究極の断熱・吸波界面として機能する。
+[EN] By precisely controlling temperature during the firing process, the surface is ceramicized
+(phase transition to glass) while internal air is expelled. Utilizing the negative pressure
+generated during cooling, "micro-vacuums" are formed within, serving as the ultimate insulation
+and wave-absorbing interfaces.
+B. 不動態マトリックスによる防食 / Corrosion Prevention via Passivity Matrix
+[JP] 水を使わないことで、ビスマスおよび玄武岩(バサルト)の鉄成分は、不活性なシリカ・マトリック
+ス内に「ガラス封印」される。酸素供給が物理的に遮断されるため、経年劣化による性能低下は理論
+上ゼロとなる。
+
+[EN] By excluding water, Bismuth and the iron components of Basalt are "glass-sealed" within
+an inert silica matrix. Since oxygen supply is physically cut off, performance degradation over
+time becomes theoretically zero.
+
+3. 実装要件:先進工業インフラの必然性 / Implementation
+Requirements: Necessity of Advanced Industrial Infrastructure
+[JP] 本技術の実装には、1度単位の炉内温度管理、高純度シリカ(65%以上)の安定調達、および
+精密な分散技術が不可欠である。これは「特定の先進工業国」が持つ産業インフラを前提とした、高
+度な「枠」による防衛策でもある。
+[EN] Implementation requires 1-degree precision furnace temperature management, stable
+procurement of high-purity silica (65%+), and advanced dispersion technology. This serves as a
+defense mechanism based on the sophisticated industrial infrastructure ("Framework") exclusive
+to specific advanced industrial nations.
+比較・スペック表 / Comparison & Specs Table
+項目 / Item 仕様 / Specification 期待効果 / Expected Effect
+媒体組成 / Medium Dry Silica (65%), Basalt
+(20%), Bismuth (7%),
+Catalyst (0.2%)
+
+不変性の確保 / Ensuring
+Invariability
+
+封止形式 / Sealing Vitrification (V3-Glass Shell) 酸化・劣化の完全排除 / Total
+Exclusion of Oxidation
+
+吸波特性 / Wave Absorption Vacuum-Interface
+Multi-Reflection
+
+広帯域エネルギー減衰 /
+Wideband Energy
+Attenuation
+
+4. 結び:カオスを封じるガラスの檻 / Conclusion: The Glass Cage
+Governing Chaos
+[JP] 「枠が無いのが枠」— 水という不安定な要素を削ぎ落とし、ただの石と砂を、先進国の知恵とい
+うガラスに閉じ込める。これこそが、カオスを制する唯一の秩序である。
+
+[EN] "No framework is the framework"—by stripping away the unstable element of water and
+enclosing mere stone and sand within the glass of advanced-nation wisdom. This is the only
+order that governs chaos.
