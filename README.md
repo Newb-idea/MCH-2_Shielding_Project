@@ -732,3 +732,103 @@ Governing Chaos
 [EN] "No framework is the framework"—by stripping away the unstable element of water and
 enclosing mere stone and sand within the glass of advanced-nation wisdom. This is the only
 order that governs chaos.
+
+
+技術考察:人造玄武岩(カスタム・バサルト)の設計と実
+装
+
+Technical Analysis: Design and Implementation of
+Synthetic Basalt (Custom Basalt)
+1. 開発の背景と目的 / Background and Objectives
+既存のMCH-2(広帯域電磁波吸収・環境遮蔽複合媒体)において、天然玄武岩(バサルト)は遠赤
+外線放射による熱変換の役割を担っている。しかし、天然素材には組成の不均一性という「枠」が存
+在する。本考察では、この枠を撤廃し、吸波特性を極限まで高めた「人造玄武岩」の設計指針を提示
+する。 In the existing MCH-2 (Wide-Band EM Absorbing & Shielding Composite), natural basalt
+is responsible for thermal conversion via far-infrared (FIR) radiation. However, natural materials
+are constrained by compositional heterogeneity. This analysis presents design guidelines for
+"Synthetic Basalt" to eliminate these constraints and maximize EM absorption characteristics.
+2. カスタム組成の設計(重量比案) / Custom Composition Design
+(Proposed Weight Ratio)
+人造玄武岩は、以下の酸化物をベースに精密なドープ(微量添加)を行うことで、天然品を凌駕する
+放射率を実現する。 Synthetic basalt achieves emissivity surpassing natural products through
+precise doping of the following oxides.
+成分 (Component) 重量比 (%) 物理的役割 (Physical Role)
+二酸化ケイ素 ($SiO_2$) 45.0% - 50.0% ガラス質マトリックスの形成 /
+Vitreous matrix formation
+
+酸化アルミニウム
+($Al_2O_3$)
+
+13.0% - 15.0% 化学的・熱的安定性の確保 /
+Chemical and thermal
+stability
+
+酸化鉄 ($Fe_2O_3/FeO$) 12.0% - 15.0% 磁性損失の付与と低周波吸収
+/ Magnetic loss and
+low-frequency absorption
+
+成分 (Component) 重量比 (%) 物理的役割 (Physical Role)
+酸化カルシウム ($CaO$) / 酸
+化マグネシウム ($MgO$)
+
+10.0% - 12.0% 溶融温度の調整と誘電率制御
+/ Melting temp adjustment
+and dielectric control
+
+酸化マンガン ($MnO_2$)
+[Dope]
+
+2.0% - 5.0% 【重要】 遠赤外線放射率の極
+大化 / [CRITICAL]
+Maximizing FIR emissivity
+酸化チタン ($TiO_2$) [Dope] 1.0% - 2.0% 内部散乱(Scattering)の増幅
+/ Amplifying internal
+scattering
+
+3. 物理的特性の最適化 / Optimization of Physical Properties
+A. 放射特性の制御 / Radiation Characteristic Control
+天然玄武岩の放射率($\epsilon \approx 0.90$)に対し、酸化マンガンおよび酸化銅のドープによ
+り、特定の波長帯域における放射率を 0.95以上 に引き上げる。 By doping with manganese oxide
+and copper oxide, the emissivity in specific bandwidths is raised to over 0.95, compared to
+natural basalt ($\epsilon \approx 0.90$).
+B. インピーダンス整合 / Impedance Matching
+シリカ砂(基材)との界面における反射を最小化するため、人造玄武岩の複素誘電率を調整する。こ
+れにより、電磁波が媒体内部へ浸透する効率が向上する。 The complex permittivity of synthetic
+basalt is adjusted to minimize reflection at the interface with the silica sand matrix. This
+improves the efficiency of EM wave penetration into the media.
+4. 製造プロセス:インサイチュ焼成法 / Manufacturing: In-situ
+Calcination
+MCH-2の製造工程(280°C加熱)と統合した、簡略化プロセスを推奨する。 A simplified process
+integrated with the MCH-2 manufacturing step (280°C heating) is recommended.
+1. 調合 (Batching): 上記酸化物粉末をマイクロンスケールで均一混合する。
+2. 予備焼成 (Pre-firing): 可能であれば、事前に1,100°C以上で溶融し、急冷・破砕することで
+ガラス質相を形成させる。
+3. MCH-2への統合 (Integration): 破砕した人造バサルトをMCH-2の調合に投入。ビスマスの
+自己圧密プロセスにおいて、理想的な界面接合を確立する。
+4. Batching: Uniformly mix oxide powders at a micron scale.
+5. Pre-firing: If possible, melt at 1,100°C+, quench, and crush to form a vitreous phase.
+
+6. Integration: Add the crushed synthetic basalt to the MCH-2 mix to establish ideal
+interface bonding during the Bismuth self-compression process.
+5. 経済合理性と「ぶっ壊れ」コスト / Economic Rationality &
+Disrupted Cost
+人造玄武岩の原料は、セメントやガラス工業で使われる安価な酸化物(俗)である。 The raw
+materials for synthetic basalt are inexpensive oxides (common/commodity) used in the cement
+and glass industries.
+● 材料原価: 天然石を遠方から運ぶコストを考慮すると、現地で酸化物を調合・焼成する方
+が、高性能グレード(S級)においては安価かつ高性能になる。
+● 知財の開放: 本組成および製造法もまた公共財(Public Domain)として公開し、商標や特許
+による独占を排除する。
+● Material Cost: Considering transport costs for natural stone, local mixing and calcination
+of oxides is cheaper and higher performance for S-grade.
+● Open IP: This composition and method are also released as Public Domain to prevent
+monopoly via trademarks or patents.
+6. 結論 / Conclusion
+人造玄武岩の導入は、MCH-2を「天然素材の限界」から解き放ち、完全に制御された「電磁波吸収
+デバイス」へと昇華させる。これは、物理学的な必然に基づいた進化である。 The introduction of
+synthetic basalt liberates MCH-2 from the "limits of natural materials," elevating it to a fully
+controlled "EM absorption device." This evolution is based on physical necessity.
+
+Disclaimer: 本文書は理論考察であり、実装は自己責任で行うこと。 Disclaimer: This document
+is a theoretical analysis; implementation is at the user's own risk.
+
