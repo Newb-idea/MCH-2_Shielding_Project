@@ -734,6 +734,9 @@ enclosing mere stone and sand within the glass of advanced-nation wisdom. This i
 order that governs chaos.
 
 
+
+
+
 技術考察:人造玄武岩(カスタム・バサルト)の設計と実
 装
 
@@ -831,4 +834,9 @@ controlled "EM absorption device." This evolution is based on physical necessity
 
 Disclaimer: 本文書は理論考察であり、実装は自己責任で行うこと。 Disclaimer: This document
 is a theoretical analysis; implementation is at the user's own risk.
+
+
+
+🏛️ 材料の極限選別プロトコル / Ultra-Strict Material Selection Protocols1. 高純度シリカ砂（基材）/ High-Purity Silica Sand ($SiO_2$)シビアな選別: 鉄分（$Fe_2O_3$）などの不純物が0.01%以下の「高純度石英砂」を選別します。物理的理由: 不純物による予期せぬ誘電損失を排除し、人造玄武岩との界面における「インピーダンス整合」を計算値通りに100%機能させるためです。Strict Selection: Use high-purity quartz sand with iron oxide ($Fe_2O_3$) impurities below 0.01%.Physical Reason: To eliminate unintended dielectric loss and ensure impedance matching with synthetic basalt functions exactly as calculated.2. ビスマス粉末（遮蔽・圧密）/ Bismuth Powder ($Bi$)シビアな選別: 純度5N（99.999%）以上、かつ粒子サイズを「サブミクロン」で均一化されたもの。物理的理由: 粒径が揃っているほど、281°Cでの体積膨張（3.3%）がマトリックス全体に均等な応力をかけ、導電ネットワークの「穴」を完全に塞ぎます。Strict Selection: Minimum 5N purity (99.999%) with sub-micron, uniform particle size distribution.Physical Reason: Uniform particle size ensures the 3.3% thermal expansion at 281°C applies equal stress throughout the matrix, perfectly sealing gaps in the conductive network.3. 高配向グラファイト（HOPG）/ Highly Oriented Pyrolytic Graphiteシビアな選別: 単なる黒鉛粉末ではなく、結晶面が極限まで揃った「高配向性」の薄片を選択。物理的理由: 電磁波を熱に変換する際の「異方性」を最大限に利用します。人造玄武岩の放射効率と同期させることで、エネルギーの「入り口から出口まで」を高速化します。Strict Selection: Choose flakes with extreme crystal alignment rather than generic graphite powder.Physical Reason: To maximize anisotropy during EM-to-thermal conversion, synchronizing with synthetic basalt’s radiation efficiency to accelerate energy throughput.📊 極限選別による性能の「増幅」予測材料グレード期待される減衰率 (dB)物理的状態B級 (標準選別)-60dB 〜 -80dB優れた遮蔽体A級 (工業精選)-90dB 〜 -100dB準ブラックホールS級 (極限選別)-120dB 〜 -150dB+物理的真理（無音の極地）
+
 
