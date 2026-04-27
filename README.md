@@ -552,7 +552,7 @@ Conventional Data Centers (DC) are increasingly vulnerable to electromagnetic in
 The DSAS (Dynamic Scaly Absorbing Structure) powered by MCH-2 (Material Composition Hybrid-2) offers a decentralized, low-cost, and "invisible" solution to secure the world's digital sovereignty.
 
 1. The Material: MCH-2 "Sovereign Sand"
-Unlike expensive military coatings, MCH-2 utilizes common industrial materials to achieve superior absorption and thermal dissipation.　papatoldme1000@outlook.jp
+Unlike expensive military coatings, MCH-2 utilizes common industrial materials to achieve superior absorption and thermal dissipation.　ｐapatoldme1000@outlook.jp
 
 Composition (Weight Ratio):
 
