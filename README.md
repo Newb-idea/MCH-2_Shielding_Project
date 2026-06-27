@@ -1,4 +1,6 @@
-[![CI](https://github.com/Newb-idea/MCH-2_Shielding_Project/actions/workflows/blank.yml/badge.svg)](https://github.com/Newb-idea/MCH-2_Shielding_Project/actions/workflows/blank.yml)　　　　　　　　　　　　　　　　　　　　　
+[![CI](https://github.com/Newb-idea/MCH-2_Shielding_Project/actions/workflows/blank.yml/badge.svg)](https://github.com/Newb-idea/MCH-2_Shielding_Project/actions/workflows/blank.yml)　　　　
+
+male  address    papatoldme1000@outlook.jp
 
 🤝 [JP] 共創と献身への呼びかけ / [EN] Call for Co-creation and Devotion
 [JP] 非営利の宣誓:
