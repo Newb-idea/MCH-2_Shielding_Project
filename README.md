@@ -1057,3 +1057,60 @@ MCH-2が求める吸波・発電機能の物理的な可能性を探るにあた
 * **環境負荷の低い製造プロセス (Eco-friendly Manufacturing):** 有害な還元剤を使わず、水中で安全にナノ粒子を生成できるため、サステナブルなものづくりの選択肢として注目しています。
 * **高機能な合金材料 (Advanced Alloy Materials):** 複数の金属を均一に混合し、ナノレベルで精密に制御された材料は、従来の素材では難しかった特異な電磁波特性や発電能力を引き出せる可能性があり、大きな期待を寄せています。
 
+
+
+## 2. Acknowledgment and Technical Reference
+
+## 2. 謝辞および技術的出典
+
+**[EN]**
+I would like to express my sincere appreciation to the research teams at Osaka Metropolitan University, the University of Tokyo, and Osaka University for their pioneering work in material science. Their findings serve as an essential roadmap and inspiration for the development concepts of MCH-2.
+
+**[JP]**
+材料科学における先駆的な研究を推進されている、大阪公立大学、および東京大学・大阪大学の研究チームの皆様に深く敬意を表します。彼らの発見は、MCH-2の開発コンセプトを考える上で不可欠な道標であり、材料科学の発展に対するその革新的な功績に心から感謝いたします。
+
+### A. Nanoparticle Synthesis (Reference: Osaka Metropolitan University)
+
+### A. ナノ粒子合成技術（参照：大阪公立大学）
+
+**[EN]**
+To explore the potential for wave-absorbing and power-generating capabilities, I am referencing the "High-Entropy Alloy Nanoparticle Synthesis via Ultrashort Pulse Laser Irradiation" pioneered by the team at Osaka Metropolitan University.
+
+* **Eco-friendly Manufacturing:** This method allows for the safe production of nanoparticles in a liquid medium without using hazardous reducing agents, offering a sustainable approach to manufacturing.
+* **Advanced Alloy Materials:** By uniformly mixing multiple metals and achieving precise control at the nano-level, this material approach offers unique electromagnetic characteristics and power-generation potential.
+
+**[JP]**
+吸波・発電機能の物理的な可能性を探るにあたり、大阪公立大学の研究チームが発表した「超短パルスレーザー照射によるハイエントロピー合金ナノ粒子合成技術」を参考にしています。
+
+* **環境負荷の低い製造プロセス:** 有害な還元剤を使わず、水中で安全にナノ粒子を生成できるため、サステナブルなものづくりの選択肢として注目しています。
+* **高機能な合金材料:** 複数の金属を均一に混合し、ナノレベルで精密に制御された材料は、従来の素材では難しかった特異な電磁波特性や発電能力を引き出せる可能性があります。
+
+### B. Structural Strengthening (Reference: University of Tokyo & Osaka University)
+
+### B. 構造強化技術（参照：東京大学・大阪大学）
+
+**[EN]**
+Regarding structural durability, I am referencing the research (*Additive Manufacturing*, 2025, 104737) which discovered a new sub-micron scale cell interface structure in high-entropy alloys (Ti-Zr-Nb-Mo-Ta) where "dislocation networks" and "phase separation" synergistically occur during solidification.
+
+**[JP]**
+構造的な耐久性に関しては、東京大学・大阪大学の研究グループによる研究成果（*Additive Manufacturing*, 2025, 104737）を参照しています。同研究では、ハイエントロピー合金の凝固過程で「転位ネットワーク」と「相分離」が連携するサブミクロン規模の新たなセル界面構造が発見されており、これによる強化メカニズムは、材料の強靭性を高めるための極めて重要な示唆を与えています。
+
+---
+
+## 3. Future Research and Verification Challenges
+
+## 3. 今後の研究・検証課題
+
+**[EN]**
+The following points are set forth as "research challenges" for future exploration. These do not guarantee any specific manufacturing method, and verification toward social implementation awaits further exploration by future co-creators.
+
+1. **Optimization of Thermal History:** Quantitative verification of the optimal cooling rate and temperature gradient to reproduce the cell interface structure within this project's manufacturing environment.
+2. **Verification of Substrate Affinity:** Evaluation of the physical affinity and structural stability at the interface between the bismuth-based matrix and the introduced high-entropy alloy nanoparticles.
+3. **Dispersal Stability:** Developing processes to prevent the agglomeration of nanoparticles within the molten bismuth to ensure uniform structural integrity.
+
+**[JP]**
+以下の項目を、将来的な実装に向けた「研究・検証課題」として設定します。本項は特定の製造法を保証するものではなく、これらの知見の社会実装に向けた検証は、今後の共創者によるさらなる探求を待つものです。
+
+1. **熱履歴の最適化:** 本プロジェクトの製造環境下において、セル界面構造を再現・誘発させるための最適な冷却速度および温度勾配の定量的検証。
+2. **基材親和性の検証:** ビスマスを主成分とする基材マトリックスと、導入するハイエントロピー合金ナノ粒子との界面における物理的親和性および構造安定性の評価。
+3. **分散の安定化:** 溶融ビスマス内におけるナノ粒子の凝集を抑制し、均一な構造体を形成するための製造プロセスの確立。
