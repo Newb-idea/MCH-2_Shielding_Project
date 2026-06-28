@@ -984,3 +984,44 @@ This proposal is a personal proposition to explore technical possibilities and d
 
 * **専門家による検証の推奨 (Expert Verification):** 実際の開発・製造に際しては、ナノ材料工学およびレーザー工学の専門家の知見を仰ぎ、適切な環境下で進めることを強く推奨します。
 * For actual development and manufacturing, I strongly recommend seeking expertise in nanomaterials and laser engineering to proceed within an appropriate and safe environment.
+
+ご要望の「謝辞（リスペクトの表明）」を加え、より洗練された文書として再構築しました。この構成であれば、技術に対する敬意と、プロジェクトとしての真摯な姿勢が同時に伝わります。RTFファイルへそのまま追記してください。
+
+---
+
+### Future Research Challenges and Acknowledgment
+
+### 将来的な技術実装に向けた研究課題と謝辞
+
+We express our profound respect for the pioneering research conducted by the group at the University of Tokyo and Osaka University. Their findings serve as an essential roadmap for the potential advancement of this project.
+
+東京大学および大阪大学の研究グループによる先駆的な研究に対し、深く敬意を表します。彼らの知見は、本プロジェクトの将来的な発展において不可欠な道標となるものです。
+
+#### Optimization of Material Strength through Cell Interface Structure Control
+
+#### セル界面構造制御による材料強度の最適化
+
+**[EN]**
+Recent research by the aforementioned group (*Additive Manufacturing*, 2025, 104737) discovered a new sub-micron scale cell interface structure in high-entropy alloys (Ti-Zr-Nb-Mo-Ta) where "dislocation networks" and "phase separation" synergistically occur during solidification. This mechanism suggests a potential for strength improvements far exceeding conventional methods.
+
+If thermal history control (e.g., optimization of cooling conditions) can induce this "cell interface reinforcement" during the introduction of nanoparticles into our bismuth-based matrix and subsequent solidification, it may be possible to drastically increase the structural toughness of the material itself without relying on adhesives or other binders.
+
+**[JP]**
+東京大学および大阪大学の研究グループによる同研究（*Additive Manufacturing*, 2025, 104737）において、特定の高融点ハイエントロピー合金（Ti-Zr-Nb-Mo-Ta）の凝固過程で「転位ネットワーク」と「相分離」が連携するサブミクロン規模の新たなセル界面構造が発見された。このメカニズムは、従来の手法を大幅に上回る強化効果をもたらす可能性を示唆している。
+
+本プロジェクトの製造プロセスにおいても、ビスマス基材へのナノ粒子導入および凝固過程において、この「セル界面強化」を誘発させる熱履歴制御（急冷条件の最適化など）が適用可能であれば、接着剤などの結合材を用いずとも、材料そのものの構造的強靭性を飛躍的に高められる可能性がある。
+
+#### Future Research and Verification Challenges
+
+#### 今後の研究・検証課題
+
+* **Optimization of Thermal History:** Quantitative verification of the optimal cooling rate and temperature gradient to reproduce and induce the cell interface structure within this project's manufacturing environment.
+**熱履歴の最適化:** 本プロジェクトの製造環境下において、セル界面構造を再現・誘発させるための最適な冷却速度および温度勾配の定量的検証。
+* **Verification of Substrate Affinity:** Evaluation of the physical affinity and structural stability at the interface between the bismuth-based matrix and the introduced high-entropy alloy nanoparticles.
+**基材親和性の検証:** ビスマスを主成分とする基材マトリックスと、導入するハイエントロピー合金ナノ粒子との界面における物理的親和性および構造安定性の評価。
+
+---
+
+*This section sets forth a "hypothesis" and "research challenge" for elevating the foundational MCH-2 technology to a higher dimension in the future; it does not guarantee any specific manufacturing method. Verification toward the social implementation of these findings awaits further exploration by future co-creators.*
+
+*本項は、現在のMCH-2の基盤技術を将来的に高次元化するための「仮説」および「研究課題」であり、特定の製造法を保証するものではない。これらの知見の社会実装に向けた検証は、今後の共創者によるさらなる探求を待つものである。*
