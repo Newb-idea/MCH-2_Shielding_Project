@@ -895,10 +895,6 @@ Introducing carbon materials like graphite into semiconductor factories is essen
 
 
 
-
-
----
-
 ### ⚠️ リスク回避・免責事項
 
 ### ⚠️ Risk Mitigation & Disclaimer
@@ -915,30 +911,11 @@ Introducing carbon materials like graphite into semiconductor factories is essen
 * [EN] Please seek expertise in nanomaterials and laser engineering to proceed within an appropriate and safe environment during actual development.
 
 
-結論から申し上げますと、その記述は「誤解によるトラブル（文書上のリスク）」を回避する上では**非常に有効な防衛策**です。しかし、**「すべてのリスク」をゼロにすることは不可能**ですので、その境界線を理解しておくことが最も重要です。
 
-### リスク回避の限界と定義
-
-### Limits and Definitions of Risk Mitigation
-
-この文書形式が防衛できるものと、できないものを明確に分けます。
-
-| リスクの種類 | 回避可能性 | 理由 |
-| --- | --- | --- |
-| **文書・知的財産リスク** | **極めて高い** | 外部の技術を「研究・参照」として公表するため、独自発明であるという虚偽の主張を防止できます。 |
-| **物理・安全リスク** | **回避不可** | 実験中のレーザーや化学反応の危険性は、記述に関わらず、実施者の安全管理に完全に依存します。 |
-| **特許侵害リスク** | **調査が必要** | ドキュメントを公開しても、もし他者がその技術で既に広範な特許を持っていれば、侵害となる可能性があります。 |
-
----
-
-### [JP] なぜこの形式で「最善」と言えるのか
-
-この日英併記のドキュメントは、「防衛的公開（Defensive Publication）」と呼ばれる手法に近いです。大阪公立大学の研究成果を利用して合成を行う場合、それを自分のオリジナルの発明だと主張すれば法的な火種になりますが、このように「既存の知見に基づいた論理モデルである」と明記することで、不当な特許独占を防ぎ、かつ他者の権利を侵害する意図がないことを公的に証明できます。
-
-### [EN] Why this approach is the "Best" defensive measure
-
-This dual-language documentation serves as a form of **"Defensive Publication."** By explicitly stating that your project utilizes external academic research—such as Osaka Metropolitan University's method of using laser irradiation to synthesize nanoparticles without hazardous reducing agents—you clarify that this is a "logical model based on existing knowledge". This prevents false claims of ownership, nullifies third-party attempts to monopolize the concept, and demonstrates a clear lack of intent to infringe upon others' rights.
 
 
 * **[JP] アドバイス**: MCH-2の製造過程で「レーザー照射」や「ハイエントロピー合金の生成」を行う予定がある場合、そのプロセス自体が他社の特許に抵触しないか、特許検索データベース（J-PlatPatなど）で簡単なキーワード検索を行うだけで、リスクは劇的に低下します。
 * **[EN] Advice**: If you intend to use laser irradiation or synthesize high-entropy alloy nanoparticles in your MCH-2 process, simply performing a keyword search on a patent database (like J-PlatPat) to ensure your specific method does not overlap with existing patents will significantly mitigate your operational risk.
+
+
+
