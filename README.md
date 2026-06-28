@@ -1025,3 +1025,35 @@ If thermal history control (e.g., optimization of cooling conditions) can induce
 *This section sets forth a "hypothesis" and "research challenge" for elevating the foundational MCH-2 technology to a higher dimension in the future; it does not guarantee any specific manufacturing method. Verification toward the social implementation of these findings awaits further exploration by future co-creators.*
 
 *本項は、現在のMCH-2の基盤技術を将来的に高次元化するための「仮説」および「研究課題」であり、特定の製造法を保証するものではない。これらの知見の社会実装に向けた検証は、今後の共創者によるさらなる探求を待つものである。*
+
+
+ご要望に合わせて、「中核技術（CPU）」という強い表現を避け、研究チームへの敬意と感謝を伝える「謝辞（Acknowledgment）」と「技術的参考」のスタイルに書き直しました。
+
+プロジェクトのドキュメントに、より自然で誠実なトーンで組み込める構成です。
+
+---
+
+### Acknowledgment / 謝辞
+
+I would like to express my sincere appreciation to the research team at Osaka Metropolitan University for their pioneering work on "High-Entropy Alloy Nanoparticle Synthesis via Ultrashort Pulse Laser Irradiation." Their research serves as a valuable reference that inspires the material development concepts for MCH-2. I am truly grateful for their significant contribution to the advancement of material science.
+
+大阪公立大学の研究チームによる『超短パルスレーザー照射によるハイエントロピー合金ナノ粒子合成技術』の先駆的な研究成果に、深く敬意を表します。彼らの研究は、MCH-2の材料開発のコンセプトを考える上で非常に有益なヒントとなっており、材料科学の発展に対するその革新的な功績に感謝いたします。
+
+---
+
+### 2. Technical Reference: MCH-2 Material Concepts
+
+### 2. 技術的参考：MCH-2の材料コンセプト
+
+**[EN]**
+To explore the physical potential for wave-absorbing and power-generating capabilities in MCH-2, I am referencing the "High-Entropy Alloy Nanoparticle Synthesis via Ultrashort Pulse Laser Irradiation" pioneered by the team at Osaka Metropolitan University.
+
+* **Eco-friendly Manufacturing:** This method allows for the safe production of nanoparticles in a liquid medium without using hazardous reducing agents, offering a sustainable approach to manufacturing.
+* **Advanced Alloy Materials:** By uniformly mixing multiple metals and achieving precise control at the nano-level, this material approach offers unique electromagnetic characteristics and power-generation potential that were previously difficult to achieve with conventional materials.
+
+**[JP]**
+MCH-2が求める吸波・発電機能の物理的な可能性を探るにあたり、大阪公立大学の研究チームが発表した「超短パルスレーザー照射によるハイエントロピー合金ナノ粒子合成技術」を参考にしています。
+
+* **環境負荷の低い製造プロセス (Eco-friendly Manufacturing):** 有害な還元剤を使わず、水中で安全にナノ粒子を生成できるため、サステナブルなものづくりの選択肢として注目しています。
+* **高機能な合金材料 (Advanced Alloy Materials):** 複数の金属を均一に混合し、ナノレベルで精密に制御された材料は、従来の素材では難しかった特異な電磁波特性や発電能力を引き出せる可能性があり、大きな期待を寄せています。
+
